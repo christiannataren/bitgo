@@ -1,0 +1,44 @@
+{
+    "blacklist_address": [
+        {
+            "pub": "bc1q2hc6yjddyqphag6pklhhwlq6p0xj7cnp6czn05",
+            "prv": "KzW97UWsE3LueypNvxt2YjRJ8NxifwzdxxwNfvZAZ3m9oC76NcEj",
+            "type": "segwit-bech32"
+        },
+        {
+            "pub": "bc1qywh3gs66qu7hmffn5eyw2suukuxq2z8cfqshsl",
+            "prv": "L46M4n24HG2gCqhCWsggM3FqtPvWYhH9yxdSoUv5864v9LRrsMqs",
+            "type": "segwit-bech32"
+        },
+        {
+            "pub": "bc1qnp09f7y4eheps0uklv4kfjeawsrsgzjpzwehdc",
+            "prv": "L4bdXybpoqQvZahfUySuYV88iengCqSVuY6bodYjWJgeLPmJyYv5",
+            "type": "segwit-bech32"
+        },
+        {
+            "pub": "3BkTifu4NfskjJFMSF89EAnk4fsy73Bi1y",
+            "prv": "KzHXdoZE4mdZtTUMAaYT5h1RzwBQeihKPUBYFg6uPzSaAQev9Mgs",
+            "type": "segwit"
+        },
+        {
+            "pub": "3EPKAGVAynkCvbLYu6dkVnzRWB2jvUGNgN",
+            "prv": "Kxn6TjjvtEDWn3Ea9q9ZUfjpnxLinyofaRchFseFN7jY2WDe9hac",
+            "type": "segwit"
+        },
+        {
+            "pub": "39DVg23mC33KEUYzqMQFpJQKPu3sji74Ym",
+            "prv": "L18FupJcaLWymDqCZ59qkkGJCJwBFhpU3EcnrhGE9h8XUGixXfHD",
+            "type": "segwit"
+        },
+        {
+            "pub": "19MSR3QFDtH74nDT9Y2SsrZcDRc4T5rC5S",
+            "prv": "KwrH5b4X6z57rPqr4vYZkzo2Xi7xx8uusqDqi2jGUGG1GxxVcqRC",
+            "type": "legacy"
+        },
+        {
+            "pub": "1BsBYizCrC23e6ccwtENcQNBNnkD7tT4Zi",
+            "prv": "L3BG21gA6Nd5Fb4qHGi42EAf2tUaFU3Czm97BVqt26EuaJu3umNM",
+            "type": "legacy"
+        }
+    ]
+}
